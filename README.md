@@ -1,6 +1,6 @@
-# Miners Guild 
+# Birb Token Community Website  
 
-Community DAO for Neutral Dapps
+The cutest token on the planet. Now in your wallet!  🐦 
  
 
  
