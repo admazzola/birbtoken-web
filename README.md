@@ -1,6 +1,6 @@
-# Birb Token Community Website  
+#  🐦 Birb Token Community Website  
 
-The cutest token on the planet. Now in your wallet!  🐦 
+The cutest token on the planet. Now in your wallet! 
  
 
  
