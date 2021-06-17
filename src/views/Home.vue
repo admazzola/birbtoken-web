@@ -25,10 +25,10 @@
  
          <div class="  md:w-1/2  w-full mt-8 py-8  px-1  text-center">
 
-            <div class="hidden text-white text-xl my-4">  Neutral grass-roots organization.  </div> 
+            <div class="hidden text-white text-xl my-4">  The cutest birb on the planet. In your wallet.  </div> 
 
         <div>
-            <router-link to="/stake"  class="select-none no-underline bg-blue-700 mb-16 p-2 inline-block rounded hover:bg-blue-900 border-gray-800 border-2 cursor-pointer text-blue-100" style=" text-shadow: 1px 1px #222;"> Join the Guild   </router-link> 
+            <router-link to="/stake"  class="select-none no-underline bg-blue-700 mb-16 p-2 inline-block rounded hover:bg-blue-900 border-gray-800 border-2 cursor-pointer text-blue-100" style=" text-shadow: 1px 1px #222;"> Get BIRB  </router-link> 
         </div>
       
             <img src="@/assets/images/hero-dark2.png" class="pl-4" style="margin:0 auto;" />

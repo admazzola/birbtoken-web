@@ -3,10 +3,6 @@ import Router from 'vue-router'
 
 
 import Home from './views/Home.vue'
- 
-import Stake from './views/Stake.vue'
-  
-import Unstake from './views/Unstake.vue'
   
 import Contribute from './views/Contribute.vue'
 
@@ -28,17 +24,6 @@ export default new Router({
     } ,
 
     
-
-    {
-      path: '/stake',
-      name: 'stake',
-      component: Stake
-    } ,
-    {
-      path: '/unstake',
-      name: 'unstake',
-      component: Unstake
-    } ,
 
     {
       path: '/members',
